@@ -14,7 +14,8 @@ padding: 0px 20px 20px 20px;
 
 .card{
     width: 300px;
-    height: 550px;
+    height: 450px; 
+  
    
   }
   
@@ -29,12 +30,12 @@ padding: 0px 20px 20px 20px;
   
   .ft-advogado{
     width: 300px;
-  
+   
   }
   
   .txt-advogado{
     width: 300px;
-   
+   padding: 0px 0px 20px 0px;
     font-size: 0.8em;
     
   
