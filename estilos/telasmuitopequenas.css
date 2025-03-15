@@ -41,7 +41,9 @@ padding: 0px 20px 20px 20px;
   
   }
 
-  
+  .form{
+    top:63%
+  }
 .form input,
 .form textarea,
 .form button {
